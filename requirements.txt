@@ -1,0 +1,7 @@
+tensorflow
+bert-serving-server
+bert-serving-client
+sklearn
+pytest
+pytest-xdist
+logzero
